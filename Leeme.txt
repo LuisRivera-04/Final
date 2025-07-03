@@ -1,0 +1,7 @@
+El archivo BAT es solo el lanzador del proyecto.
+
+usuario
+admin
+
+contraseña
+12345
