@@ -31,12 +31,10 @@
                   <Component id="spCantidad" alignment="0" max="32767" attributes="0"/>
                   <Component id="cbSucursal" alignment="0" max="32767" attributes="0"/>
                   <Component id="lblMensaje" alignment="0" max="32767" attributes="0"/>
-                  <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
-                      <Component id="lblLote" alignment="1" max="32767" attributes="0"/>
-                      <Component id="lblProducto" alignment="1" pref="178" max="32767" attributes="0"/>
-                      <Component id="lblCantidad" alignment="0" max="32767" attributes="0"/>
-                      <Component id="lblSucursal" alignment="0" max="32767" attributes="0"/>
-                  </Group>
+                  <Component id="lblLote" alignment="1" max="32767" attributes="0"/>
+                  <Component id="lblProducto" alignment="1" max="32767" attributes="0"/>
+                  <Component id="lblCantidad" alignment="0" max="32767" attributes="0"/>
+                  <Component id="lblSucursal" alignment="0" max="32767" attributes="0"/>
                   <Group type="102" alignment="0" attributes="0">
                       <Component id="jButton1" min="-2" pref="120" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
@@ -132,6 +130,7 @@
             <StringItem index="3" value="Item 4"/>
           </StringArray>
         </Property>
+        <Property name="enabled" type="boolean" value="false"/>
       </Properties>
       <AuxValues>
         <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>

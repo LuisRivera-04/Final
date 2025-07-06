@@ -109,7 +109,7 @@ private Usuario usuarioActual;
         java.awt.EventQueue.invokeLater(() -> new LoginView().setVisible(true));
     }
 
-    // Variables de componentes (NetBeans genera esto si usas el editor visual)
+    
     private javax.swing.JButton btnLogin;
     private javax.swing.JLabel lblContrasena;
     private javax.swing.JLabel lblMensaje;
